@@ -16,4 +16,8 @@ Mijn eerste doelgroep was de ouders. Zij kunnen hun kinderen op jonge leeftijd a
 
 Het derde blok stond vooral in het kader van jezelf. Wat wil jij maken? Tuurlijk, er waren richtlijnen. Het was namelijk de bedoeling dat wij als leerling een willekeurig gegenereerd kunstwerk of design zouden ontwerpen. Mijn eerste keus was basketbal, gezien deze sport ver achterligt in ons kleine landje. Daar kwam het volgende resultaat uit, de video maakt meer duidelijk:
 
-https://www.youtube.com/watch?v=n9wViN838Mg
+### https://www.youtube.com/watch?v=n9wViN838Mg
+
+
+
+![GitHub Logo](/images/logo.png)
