@@ -1,8 +1,8 @@
-# Hi! Ik ben **Malvin**, welkom op mijn gitHub!
+## Hi! Ik ben **Malvin**, welkom op mijn gitHub!
 
 ![GitHub Logo](/img/mlv.jpg)
 
-## Ik ben 25 jaar oud en woon tegenwoordig in het mooie Maastricht. Daar is alles niet lang, maar breed! Ik studeer momenteel *Communication & Multimedia Design* aan de hogeschool Zuyd. Als bijna tweedejaars student geniet ik vooral van het conceptualiseren en vervolgens ontwerpen van ervaringen voor mensen. Je zou het ook producten kunnen noemen, maar dat is ook zo saai, niet?
+### Ik ben 25 jaar oud en woon tegenwoordig in het mooie Maastricht. Daar is alles niet lang, maar breed! Ik studeer momenteel *Communication & Multimedia Design* aan de hogeschool Zuyd. Als bijna tweedejaars student geniet ik vooral van het conceptualiseren en vervolgens ontwerpen van ervaringen voor mensen. Je zou het ook producten kunnen noemen, maar dat is ook zo saai, niet?
 
 Als beginnend designer kan ik mij voornamelijk frusteren over front-end codeerwerk. Het is leuk als het lukt, maar er zijn momenten waar mijn PC in gedachten over de straat vliegt. Maar goed, dat hoort erbij denk ik zo! Bekijk hier beneden mijn werk uit het allereerste blok in mijn eerste jaar. Hier ging ik onderzoek doen naar Heerlen. De enige voorkennis die ik op dat moment had was een journalistieke achtergrond in de gaming-industrie. Toch is het me aardig gelukt om een toffe website te maken met relevante en betrouwbare content:
 
