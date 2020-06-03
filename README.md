@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Hi! Ik ben **Malvin**, welkom op mijn gitHub!
 
-You can use the [editor on GitHub](https://github.com/malliewallie/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![GitHub Logo](/images/logo.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Ik ben 25 jaar oud en woon tegenwoordig in het mooie Maastricht. Daar is alles niet lang, maar breed! Ik studeer momenteel *Communication & Multimedia Design* aan de hogeschool Zuyd. Als bijna tweedejaars student geniet ik vooral van het conceptualiseren en vervolgens ontwerpen van ervaringen voor mensen. Je zou het ook producten kunnen noemen, maar dat is ook zo saai, niet?
 
-### Markdown
+Als beginnend designer kan ik mij voornamelijk frusteren over front-end codeerwerk. Het is leuk als het lukt, maar er zijn momenten waar mijn PC in gedachten over de straat vliegt. Maar goed, dat hoort erbij denk ik zo! Bekijk hier beneden mijn werk uit het allereerste blok in mijn eerste jaar. Hier ging ik onderzoek doen naar Heerlen. De enige voorkennis die ik op dat moment had was een journalistieke achtergrond in de gaming-industrie. Toch is het me aardig gelukt om een toffe website te maken met relevante en betrouwbare content:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### http://student-1832379schu.mamdt.com/11-whole-task/
 
-```markdown
-Syntax highlighted code block
+In mijn tweede blok ging ik onderzoek doen naar een onderwerp waar ik niks van wist: **UV-exposure**. Dit blok was al aardig lastig, gezien ik niets wist van het onderwerp. Zo begin mijn onderzoek naar UV-exposure en hoe ik mensen kan informeren om zich beter in te smeren. Ik wilde kijken bij de bron, hoe leer je mensen zo vroeg mogelijk aan zich in te smeren?
 
-# Header 1
-## Header 2
-### Header 3
+Mijn eerste doelgroep was de ouders. Zij kunnen hun kinderen op jonge leeftijd al leren hoe en wanneer en hoe vaak je jezelf in moet smeren. Na een tal interviews kwam ik erachter dat de doelgroep moest shiften naar basisscholen, gezien ouders deze leraren en overblijfouders vertrouwden met hen kinderen en het informeren van deze. Hier kwam de volgende pitch uit, met een werkende app als linkje beneden in de pitch:
 
-- Bulleted
-- List
+### http://student-1832379schu.mamdt.com/12-whole-task/pitch.pdf
 
-1. Numbered
-2. List
+Het derde blok stond vooral in het kader van jezelf. Wat wil jij maken? Tuurlijk, er waren richtlijnen. Het was namelijk de bedoeling dat wij als leerling een willekeurig gegenereerd kunstwerk of design zouden ontwerpen. Mijn eerste keus was basketbal, gezien deze sport ver achterligt in ons kleine landje. Daar kwam het volgende resultaat uit, de video maakt meer duidelijk:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/malliewallie/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://www.youtube.com/watch?v=n9wViN838Mg
