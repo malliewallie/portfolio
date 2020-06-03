@@ -20,4 +20,4 @@ Het derde blok stond vooral in het kader van jezelf. Wat wil jij maken? Tuurlijk
 
 
 
-![GitHub Logo](/img/Octocat.png)
+![https://github.com/malliewallie](/img/Octocat.png)
