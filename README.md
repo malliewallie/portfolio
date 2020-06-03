@@ -1,6 +1,6 @@
 # Hi! Ik ben **Malvin**, welkom op mijn gitHub!
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/img/mlv.jpg)
 
 ## Ik ben 25 jaar oud en woon tegenwoordig in het mooie Maastricht. Daar is alles niet lang, maar breed! Ik studeer momenteel *Communication & Multimedia Design* aan de hogeschool Zuyd. Als bijna tweedejaars student geniet ik vooral van het conceptualiseren en vervolgens ontwerpen van ervaringen voor mensen. Je zou het ook producten kunnen noemen, maar dat is ook zo saai, niet?
 
@@ -20,4 +20,4 @@ Het derde blok stond vooral in het kader van jezelf. Wat wil jij maken? Tuurlijk
 
 
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/img/octocat.png)
